@@ -2,22 +2,23 @@
     "id": 133009724,
     "name": "Enter",
     "author": "GoldenJaguar753",
-    "creators": ["GoldenJaguar753, Funkyman417"],
+    "creators": ["GoldenJaguar753","Funkyman417"],
     "verifier": "GoldenJaguar753",
     "verification": "",
-    "percentToQualify": "100",
+    "percentToQualify": 100,
     "password": "free bcuz 2.2",
-    "records": []
-        }
-    {
+    "records": [
+        {
             "user": "orazor",
             "link": "",
             "percent": 100,
             "hz": 120
-        }
-  {
+        },
+        {
             "user": "funkyman417",
             "link": "",
             "percent": 100,
             "hz": 60
-  }
+        }
+    ]
+}
