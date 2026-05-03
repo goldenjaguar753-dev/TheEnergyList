@@ -1,0 +1,18 @@
+{
+    "id": 119478725,
+    "name": "GOLDEMON 1",
+    "author": "GoldenJaguar753",
+    "creators": ["GoldenJaguar753"],
+    "verifier": "GoldenJaguar753",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 100,
+    "password": "none bcuz 2.2",
+    "records": [
+        {
+            "user": "Funkyman712",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
