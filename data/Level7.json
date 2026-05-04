@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "password": "free bcuz 2.2",
     "records": [
+        {
+            "user": "orazor",
+            "link": "",
+            "hz": 120
+        }
     ]
 }
