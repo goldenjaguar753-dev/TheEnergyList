@@ -1,17 +1,7 @@
 [
     {
-        "role": "owner",
+        "role": "owner and admin",
         "name": "GoldenJaguar753",
         "link": "https://www.youtube.com/@GoldenJaguarYT-753/videos?app=desktop"
-    },
-    {
-        "role": "admin",
-        "name": "orazor",
-        "link": "https://www.youtube.com/@gmdrazor"
-    },
-    {
-        "role": "admin",
-        "name": "Funkyman417",
-        "link": "https://www.youtube.com/@ryanangelfanchannel/videos"
     }
 ]
