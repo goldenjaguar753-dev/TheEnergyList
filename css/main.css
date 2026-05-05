@@ -1,7 +1,8 @@
 :root {
-    --color-background: white;
+    /* Very light blue background */
+    --color-background: #eef7ff;
     --color-on-background: black;
-    --color-background-hover: #eee;
+    --color-background-hover: #dfefff;
     --color-on-background-hover: black;
 
     /* Header colors */
