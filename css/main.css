@@ -4,8 +4,9 @@
     --color-background-hover: #eee;
     --color-on-background-hover: black;
 
-    /* Yellow */
+    /* Header colors */
     --color-primary: #ffd600;
+    --color-primary-secondary: #4caf50;
     --color-on-primary: black;
 
     --color-error: #de0000;
@@ -16,13 +17,15 @@ main.dark,
 header.dark {
     color-scheme: dark;
 
-    --color-background: #1c1b1f;
+    /* Dark blue background */
+    --color-background: #0d1b2a;
     --color-on-background: white;
-    --color-background-hover: #27262c;
+    --color-background-hover: #1b263b;
     --color-on-background-hover: white;
 
-    /* Dark mode yellow */
+    /* Gradient colors */
     --color-primary: #fdd835;
+    --color-primary-secondary: #43a047;
     --color-on-primary: black;
 
     --color-primary-disabled: #1f213c;
@@ -30,6 +33,20 @@ header.dark {
     --color-on-error: white;
 }
 
+header {
+    display: flex;
+    padding-inline: calc(25vw - 10rem);
+    height: 4rem;
+
+    /* Yellow → Green gradient */
+    background: linear-gradient(
+        90deg,
+        var(--color-primary),
+        var(--color-primary-secondary)
+    );
+
+    color: var(--color-on-primary);
+}
 html,
 body {
     height: 100%;
